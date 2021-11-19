@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jorge-alvarado-revata
 - 👀 I’m interested in web and mobile apps
-- 🌱 I’m currently learning Angular, Flutter, Android Development
+- 🌱 I’m currently learning Angular, FrontEnd, Python Django, C#, Spring Boot.
 - 💞️ I’m looking to collaborate on mobile projects
 - 📫 How to reach me: j.revatta@gmail.com
 
