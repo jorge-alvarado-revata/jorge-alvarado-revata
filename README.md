@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jorge-alvarado-revata
-- 👀 I’m interested in web and mobile apps
-- 🌱 I’m currently develop in Angular, Django, C#, Spring Boot.
-- 💞️ I’m looking to collaborate on mobile projects
+- 👀 I’m interested in web and mobile apps and machine learning
+- 🌱 I’m currently develop in Angular, Django, C#, Spring Boot, Python
+- 💞️ I’m looking to collaborate on mobile projects and ML projects
 - 📫 How to reach me: j.revatta@gmail.com
 
 <!---
