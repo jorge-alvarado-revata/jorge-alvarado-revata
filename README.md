@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jorge-alvarado-revata
-- 👀 I’m interested in web and mobile apps, machine learning and LLM models.
-- 🌱 I’m currently develop in Angular, Django, C#, Spring Boot, Python.
-- 💞️ I’m looking to collaborate on mobile projects and ML projects.
+- 👀 I’m an AI engineer with genAI and Machine Learning, develop backend and frontend apps with GenAI.
+- 🌱 I’m currently develop in Nodejs, Angular, Python, C#.
+- 💞️ I’m looking to collaborate on mobile projects and GenAI projects.
 - 📫 How to reach me: j.revatta@gmail.com
 
 <!---
