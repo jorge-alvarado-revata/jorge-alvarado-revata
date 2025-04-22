@@ -2,7 +2,7 @@
 - 👀 I’m an AI engineer with genAI and Machine Learning, develop backend and frontend apps with GenAI.
 - 🌱 I’m currently develop in Nodejs, Angular, Python, C#.
 - 💞️ I’m looking to collaborate on mobile projects and GenAI projects.
-- 📫 How to reach me: j.revatta@gmail.com
+- 📫 How to reach me: serviciosplusapp@gmail.com
 
 <!---
 jorge-alvarado-revata/jorge-alvarado-revata is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
